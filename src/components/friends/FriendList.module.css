@@ -1,0 +1,23 @@
+.onlineStatus {
+  display: inline-block;
+  margin-left: 24px;
+}
+
+.friendList {
+  display: flex;
+  flex-direction: column;
+  width: 300px;
+  margin: 80px auto;
+  gap: 16px;
+  padding: 0;
+}
+
+.friendListLi {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  gap: 24px;
+  background-color: azure;
+  border: 1px solid black;
+  border-radius: 15px;
+}

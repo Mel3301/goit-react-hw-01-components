@@ -1,0 +1,13 @@
+.transDiv {
+  display: flex;
+  justify-content: center;
+}
+
+.transTable {
+  background-color: rgb(180, 206, 212);
+  width: 300px;
+}
+
+.transRow {
+  border: 1px solid black;
+}
